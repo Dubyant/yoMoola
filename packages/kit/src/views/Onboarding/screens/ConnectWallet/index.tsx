@@ -82,7 +82,7 @@ function ConnectHardwareButton() {
       }}
     >
       <Text typography="Heading" maxW={{ base: 160, sm: 'auto' }}>
-        {intl.formatMessage({ id: 'action__connect' })} OneKey{'\n'}
+        {intl.formatMessage({ id: 'action__connect' })} yoMoola{'\n'}
         {intl.formatMessage({ id: 'wallet__hardware_wallet' })}
       </Text>
       <Box flex={1} />
@@ -151,7 +151,7 @@ function ConnectOneKeyLiteButton() {
           mx={3}
           typography={{ sm: 'Body1Strong', md: 'Body2Strong' }}
         >
-          OneKey Lite
+          yoMoola Lite
         </Text>
         <Icon name="ChevronRightMini" color="icon-subdued" size={20} />
       </Pressable>

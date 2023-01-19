@@ -151,7 +151,9 @@ export const AppStateUnlock = () => {
           <Box width="full" py={py}>
             <Box display="flex" flexDirection="column" alignItems="center">
               <Icon name="BrandLogoIllus" size={50} />
-              <Typography.DisplayXLarge my="2">OneKey</Typography.DisplayXLarge>
+              <Typography.DisplayXLarge my="2">
+                yoMoola
+              </Typography.DisplayXLarge>
               <Typography.Body1 color="text-subdued">
                 {intl.formatMessage({
                   id: 'content__the_decentralized_web_awaits',

@@ -1,8 +1,8 @@
 {
   "expo": {
     "scheme": "onekey-wallet",
-    "name": "OneKey Wallet",
-    "slug": "OneKey-Wallet",
+    "name": "yoMoola Wallet",
+    "slug": "yoMoola-Wallet",
     "owner": "onekeyhq",
     "version": "1.0.0",
     "orientation": "portrait",

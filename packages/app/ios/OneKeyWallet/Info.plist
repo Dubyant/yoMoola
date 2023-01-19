@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>OneKey</string>
+	<string>yoMoola</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -54,9 +54,9 @@
 		</dict>
 	</dict>
 	<key>NSBluetoothAlwaysUsageDescription</key>
-	<string>Use bluetooth to connect OneKey hardware devices.</string>
+	<string>Use bluetooth to connect yoMoola hardware devices.</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
-	<string>Use bluetooth peripheral to connect OneKey hardware devices.</string>
+	<string>Use bluetooth peripheral to connect yoMoola hardware devices.</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Use Camera to scan QR Code.</string>
 	<key>NSFaceIDUsageDescription</key>
@@ -74,7 +74,7 @@
 			<key>NSUbiquitousContainerIsDocumentScopePublic</key>
 			<false/>
 			<key>NSUbiquitousContainerName</key>
-			<string>OneKey</string>
+			<string>yoMoola</string>
 			<key>NSUbiquitousContainerSupportedFolderLevels</key>
 			<string>One</string>
 		</dict>

@@ -99,7 +99,7 @@ const NavigationApp = () => {
   return (
     <NavigationContainer
       documentTitle={{
-        formatter: () => 'OneKey',
+        formatter: () => 'yoMoola',
       }}
       onReady={() => {
         routeNameRef.current =

@@ -7,8 +7,8 @@
 */
 
 "NFCReaderUsageDescription" = "Use NFC to read NDEF messages into the application.";
-"NSBluetoothAlwaysUsageDescription" = "Use bluetooth to connect OneKey hardware devices.";
-"NSBluetoothPeripheralUsageDescription" = "Use bluetooth peripheral to connect OneKey hardware devices.";
+"NSBluetoothAlwaysUsageDescription" = "Use bluetooth to connect yoMoola hardware devices.";
+"NSBluetoothPeripheralUsageDescription" = "Use bluetooth peripheral to connect yoMoola hardware devices.";
 "NSCameraUsageDescription" = "Use Camera to scan QR Code.";
 "NSFaceIDUsageDescription" = "Use Face ID to authenticate and unlock your wallet.";
 "NSMicrophoneUsageDescription" = "Use Microphone to record videos.";
